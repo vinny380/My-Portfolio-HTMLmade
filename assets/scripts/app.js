@@ -13,7 +13,7 @@ const Portfolio = function() {
             text: "programming",
             weight: 3
         }, {
-            text: "React Native",
+            text: "react native",
             weight: 7
         }, {
             text: "python",
